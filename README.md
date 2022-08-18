@@ -1,6 +1,6 @@
-# Hello React-Rails App
+# Hello React-Rails-Demo App
 
-A react-rails app to show greetings
+A demo app to show how to use React and React-Rails together.
 
 ## Built With
 
@@ -44,10 +44,11 @@ Open the project in your favorite code editor. `code .` for VS Code.
 
 ## Author
 
-👤 **IFZA Rasool**
-- GitHub: [@ifzarasool](https://github.com/IfzaRasool
-- Twitter: [@ifzaarain](https://twitter.com/ifzaarain)
-- LinkedIn: [@ifza-arain]https://www.linkedin.com/in/ifza-arain/
+👤 **Sodiq**
+
+- GitHub: [@deyemiobaa](https://github.com/deyemiobaa)
+- Twitter: [@deyemiobaa](https://twitter.com/deyemiobaa)
+- LinkedIn: [Sodiq Aderibigbe](https://linkedin.com/in/sodiqa)
 
 ## 🤝 Contributing
 
